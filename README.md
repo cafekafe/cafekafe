@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @cafekafe I work in the financial space in devops
+- 👀 I’m interested in devops and how it relates to large-scale deployment
